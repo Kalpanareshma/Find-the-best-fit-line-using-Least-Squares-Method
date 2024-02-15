@@ -63,7 +63,8 @@ plt.show()
 ```
 
 ## Output
-(https://github.com/Kalpanareshma/Find-the-best-fit-line-using-Least-Squares-Method/assets/122040453/9f2ed8bd-e464-4297-8993-0c0c8415b61e))
+![ML EX-1](https://github.com/Kalpanareshma/Find-the-best-fit-line-using-Least-Squares-Method/assets/122040453/b9307d81-130a-4614-b287-f5197c0829d6)
+
 
 
 ## Result:
